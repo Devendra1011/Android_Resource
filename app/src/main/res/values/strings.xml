@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Resource</string>
+    <string name="resource_handling">Resource Handling in Android!</string>
+</resources>
